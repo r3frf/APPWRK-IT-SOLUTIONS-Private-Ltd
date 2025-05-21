@@ -7,7 +7,8 @@ A simple, interactive Streamlit application to track, manage, and view your pers
 📥 Export to CSV: Download your transaction history as a CSV file.
 🗃️ SQLite Backend: Lightweight local database to store transactions.
 
-/n
+
+
 📦 Installation
 Clone the repository:
 git clone https://github.com/r3frf/APPWRK-IT-SOLUTIONS-Private-Ltd
@@ -16,16 +17,21 @@ cd transaction-manager
 Create a virtual environment (optional but recommended):
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-/\n
+
+
+
 Install dependencies:
 pip install Sqlite
 pip install streamlit
 ▶️ Running the App
 streamlit run main.py
 The app will open in your default browser. If not, visit the URL provided in the terminal (usually http://localhost:8501).
-/\n
+
+
+   
 🧾 File Structure
- /\n
+
+
 ├── app.py             # Main Streamlit app file
 ├── transactions.db    # SQLite database (created automatically)
 └── README.md          # This file
