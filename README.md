@@ -7,6 +7,7 @@ A simple, interactive Streamlit application to track, manage, and view your pers
 📥 Export to CSV: Download your transaction history as a CSV file.
 🗃️ SQLite Backend: Lightweight local database to store transactions.
 
+\n
 📦 Installation
 Clone the repository:
 git clone https://github.com/r3frf/APPWRK-IT-SOLUTIONS-Private-Ltd
